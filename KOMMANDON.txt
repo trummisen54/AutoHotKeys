@@ -1,0 +1,14 @@
+windows B - Blackboard
+windows P - Projekt-mapp
+windows W - Wolfram-Alpha
+windows S - Script
+windows D - Down with all windowskj
+windows M - minimize
+windows E - Computer
+windows H - Hämtade Filer
+windows G - Google
+windows Ö - Öva glosor
+
+
+Ctrl F - Find
+Ctrl G - Next (in find)
